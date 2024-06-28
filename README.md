@@ -1,9 +1,5 @@
 ![logo](https://github.com/HARIJAGAN17/HARIJAGAN17/blob/main/Daniel%20Gallego.png)
 
-# 💫 About Me:
-"Hello! I'm a passionate Flutter developer with expertise in building cross-platform mobile applications for both Android and iOS platforms. I have a strong background in Java and Python programming languages, which allows me to leverage the full potential of Flutter's capabilities. My experience extends to working with REST APIs to integrate data from various sources into mobile applications.
-
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FANTASY-WOLF#1154) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harijagan_.17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harijagan-t-431682219) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Rightuhh_vidu) 
